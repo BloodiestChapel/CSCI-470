@@ -1,5 +1,7 @@
 public class columnPrint
   {
+  // This program will print the alphabet columnwise
+  // with 5 columns and 6 rows.
   public static void main(String[] args)
     {
     // a row
